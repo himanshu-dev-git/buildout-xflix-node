@@ -5,7 +5,6 @@
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
-    "test": "jest -i"
   },
   "keywords": [],
   "author": "",
