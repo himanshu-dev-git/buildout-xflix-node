@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://admin:admin@xflix-node.jal5uzq.mongodb.net/xflix?retryWrites=true&w=majority" --drop --collection videos --file data/export_qkart_videos.json
